@@ -1,3 +1,5 @@
+# Circle Seven
+
 **Teaser:** In a world ravaged by drug-resistant superbugs, a medical researcher joins a powerful health agency that controls the population.
 
 ## 1. Circle One
@@ -44,4 +46,4 @@ Lian tries to attack Chancery, but Chancery triggers a dormant chemical—implan
 
 He is about to inject Lian when Lian bites his lip and spits on Chancery. Lian explains that he hid a dormant bioweapon in his own blood that is now attacking Chancery as a foreign body. Chancery says he's bluffing, but an alert sounds as his infection is detected and the purge routine is triggered prematurely. Chancery lunges at him with the syringe just as Lian's body is sucked down the chute.
 
-**Read part 5 on Amazon: TODO**
+***Read part 5 on Amazon: TODO***
